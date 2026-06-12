@@ -172,6 +172,20 @@ Created an interactive dashboard containing:
 ![Python Analysis](Screenshots/Python/python_analysis.png)
 ---
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- SQL Querying
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Python (Pandas)
+- Excel
+- Power BI
+- Git & GitHub
+
+  
 ## Project Structure
 
 ```
